@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PBD",
+			"Path": "..\\Source\\PBD.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PBDEditor",
+			"Path": "..\\Source\\PBDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

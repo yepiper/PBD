@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\GitHub\\PBD\\PBD\\Source\\PBD\\PBD.Build.cs",
+		"H:\\GitHub\\PBD\\PBD\\Source\\PBD.Target.cs",
+		"H:\\GitHub\\PBD\\PBD\\Source\\PBDEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

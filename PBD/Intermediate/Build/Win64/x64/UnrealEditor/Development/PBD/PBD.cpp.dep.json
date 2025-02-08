@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\github\\pbd\\pbd\\source\\pbd\\pbd.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\github\\pbd\\pbd\\intermediate\\build\\win64\\x64\\pbdeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "h:\\github\\pbd\\pbd\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pbd\\definitions.pbd.h",
+            "h:\\github\\pbd\\pbd\\source\\pbd\\pbd.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

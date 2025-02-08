@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\github\\pbd\\pbd\\source\\pbd\\private\\mygamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\github\\pbd\\pbd\\intermediate\\build\\win64\\x64\\pbdeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "h:\\github\\pbd\\pbd\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pbd\\definitions.pbd.h",
+            "h:\\github\\pbd\\pbd\\source\\pbd\\public\\mygamemodebase.h",
+            "h:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "h:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "h:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "h:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "h:\\github\\pbd\\pbd\\intermediate\\build\\win64\\unrealeditor\\inc\\pbd\\uht\\mygamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

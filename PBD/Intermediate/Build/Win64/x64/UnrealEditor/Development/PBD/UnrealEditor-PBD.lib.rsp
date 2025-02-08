@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PBD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\GitHub\PBD\PBD\Intermediate\Build\Win64\x64\PBDEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"H:\GitHub\PBD\PBD\Intermediate\Build\Win64\x64\UnrealEditor\Development\PBD\MyGameModeBase.gen.cpp.obj"
+"H:\GitHub\PBD\PBD\Intermediate\Build\Win64\x64\UnrealEditor\Development\PBD\PBD.init.gen.cpp.obj"
+"H:\GitHub\PBD\PBD\Intermediate\Build\Win64\x64\UnrealEditor\Development\PBD\PBD.cpp.obj"
+"H:\GitHub\PBD\PBD\Intermediate\Build\Win64\x64\UnrealEditor\Development\PBD\MyGameModeBase.cpp.obj"
+"H:\GitHub\PBD\PBD\Intermediate\Build\Win64\x64\UnrealEditor\Development\PBD\Default.rc2.res"
+/OUT:"H:\GitHub\PBD\PBD\Intermediate\Build\Win64\x64\UnrealEditor\Development\PBD\UnrealEditor-PBD.lib"
